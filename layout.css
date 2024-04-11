@@ -1,0 +1,55 @@
+h1 {
+    color: coral;
+    font-family: 'Times New Roman', Times, serif;
+    display: inline;
+    position: absolute;
+    padding-left: 20px;
+}
+
+h2{
+    color: coral;
+}
+#space{
+    padding:20px;
+}
+#border p{
+    color:cadetblue;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    position:inherit;
+    display:contents;
+}
+li{
+    color:cadetblue;
+    font-family:inherit;
+    font-weight: 600;
+}
+.border {
+    padding-left: 1em;
+    padding-right: 1em;
+    background-color: rgb(255, 255, 255);
+}
+
+.img {
+    min-height: 1em;
+    max-height: 100px;
+    display: inline;
+}
+
+p{
+    color:cadetblue;
+    font-weight: 600;
+}
+
+fieldset{
+    border-color:rgb(235, 235, 246);
+    border-width: 3px;
+    padding-top: 0;
+    padding-left:150;
+    padding-right:150;
+}
+
+.socials{
+    min-height: 1em;
+    max-height: 30px;
+    display: inline;
+}
